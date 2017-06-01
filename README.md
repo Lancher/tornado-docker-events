@@ -1,9 +1,7 @@
 # Tornado listens Docker Events
 
-Use Tornado to monitor Docker.
+Use [Tornado](http://www.tornadoweb.org/en/stable/) to monitor [Docker](https://www.docker.com/) events.
 
-What is Tornado(http://www.tornadoweb.org/en/stable/)?
-What is Docker(https://www.docker.com/)?
 
 Usage:
 
